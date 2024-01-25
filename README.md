@@ -21,7 +21,7 @@ A collection of awesome apps and software.
 
 ### Password Managers
 
-#### [Bitwarden]()
+#### [Bitwarden](https://bitwarden.com/)
 
 
 
