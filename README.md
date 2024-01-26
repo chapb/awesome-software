@@ -17,7 +17,8 @@ A collection of awesome apps and software.
 
 
 
-## Security
+## Security ##
+
 
 ### Password Managers
 
@@ -25,12 +26,17 @@ A collection of awesome apps and software.
 
 
 
-## Utilities
+## Utilities ##
+
+
+#### [7-zip](https://7-zip.org/)
+7-Zip is a file (un)archiver that can handle (among others) 7z, XZ, BZIP2, GZIP, TAR, and ZIP files.
+
 
 #### [Rectangle [macOS]](https://rectangleapp.com/)
-
 Move and resize windows in macOS using keyboard shortcuts or snap areas.  
 | macOS | open-source |
+
 
 #### [Visual Studio Code [All]]()
 
