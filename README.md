@@ -17,10 +17,20 @@ A collection of awesome apps and software.
 
 
 
+
+## Media ##
+
+### Media Players ##
+
+#### [VLC [🌐]](https://www.videolan.org/vlc/)
+
+
+
+
 ## Security ##
 
 
-### Password Managers
+### Password Managers ##
 
 #### [Bitwarden](https://bitwarden.com/)
 
