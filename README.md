@@ -32,7 +32,14 @@ A collection of awesome apps and software.
 
 ### Password Managers ##
 
-#### [Bitwarden](https://bitwarden.com/)
+#### [Bitwarden](https://bitwarden.com/) ####
+![open source badge](https://img.shields.io/badge/open_source-green "Open Source")
+
+
+### Two-factor authentication ###
+
+#### Bitwarden Authenticator ####
+
 
 
 
